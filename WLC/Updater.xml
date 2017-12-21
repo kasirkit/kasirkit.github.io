@@ -3,5 +3,5 @@
     <version>1.0.1.0</version>
     <url>https://www.dropbox.com/s/ak5st5ffrhz346b/WLCUpdater.zip?dl=1</url>
     <changelog>https://github.com/ravibpatel/AutoUpdater.NET/releases</changelog>
-    <mandatory>true</mandatory>
+    <mandatory>false</mandatory>
 </item>
